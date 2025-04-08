@@ -2,5 +2,5 @@
 
 ## 📦 Télécharger
 
-🔽 [Télécharger le jeu (ZIP)](https://github.com/ahrizmo/Narouto/releases/download/V1.0.0/jeu_de_cartes.tar.gz)
+🔽 [Télécharger le jeu (ZIP)](https://github.com/ahrizmo/Narouto/releases/download/V1.0.0/V1.0.0.0.zip)
 
