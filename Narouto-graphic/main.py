@@ -4,9 +4,23 @@ from player import Player
 from deck import deck1, deck2, deck3, deck4
 import pygame
 
+img_rect_p1 = [2][4]
+img_rect_p2 = [2][4]
+y = 45
+x = 405
+for i in range(2):
+    for j in range(4):
+        img_rect_p1[i][j] = pygame.Rect(x+j*210,y+i*160)
+
+y = 585
+x = 405
+for i in range(2):
+    for j in range(4):
+        img_rect_p2[i][j] = pygame.Rect(x+j*210,y+i*160)
+
 # Création des joueurs1
-joueur1 = Player("J1",20, 1)
-joueur2 = Player( "J2",20, 1)
+joueur1 = Player("J1",20, 1,img_rect_p1)
+joueur2 = Player( "J2",20, 1,img_rect_p1)
 
 # Attribution des decks aux joueurs
 joueur1.set_deck(deck4)
