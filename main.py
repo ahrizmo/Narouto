@@ -1,4 +1,4 @@
-from sympy.physics.units import joule
+
 
 from player import Player
 from deck import deck1, deck2, deck3, deck4
