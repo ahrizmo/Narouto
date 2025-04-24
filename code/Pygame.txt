@@ -1,0 +1,5 @@
+Pygame Documentation: https://www.pygame.org/docs/
+Real Python (Game Development): https://realpython.com/tutorials/game-development/
+Python Game Development with Pygame (Udemy): https://www.udemy.com/course/python-game-development-with-pygame/
+Invent with Python: https://inventwithpython.com/pygame/
+GeeksforGeeks Pygame Tutorial: https://www.geeksforgeeks.org/pygame-tutorial/
